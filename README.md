@@ -76,3 +76,6 @@ GROUP BY description
 ORDER BY total_quantity DESC
 LIMIT 5;
 
+Architecture Diagram: 
+
+![Flowchart-2](https://github.com/user-attachments/assets/c6e91cd2-47d7-4a59-883a-da57f07fd41c)
