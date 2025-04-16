@@ -5,8 +5,6 @@
 This project demonstrates a scalable data pipeline for ingesting, transforming, and analyzing customer transaction data using **AWS Glue**, **Amazon S3**, and **Amazon Athena**. The pipeline automates the ETL process and enables efficient querying for downstream analytics.
 
 ---
-## Architecture Diagram
-![Flowchart-2](https://github.com/user-attachments/assets/13ba5833-217a-451a-92dc-fd3885226b54)
 ## 🚀 Project Summary / Final Goal
 
 The objective of this project is to build a **serverless ETL (Extract, Transform, Load) pipeline** using AWS services that processes raw customer transaction data (from `.xlsx`) and stores it in a queryable, analytics-friendly format (CSV or Parquet). The final outcome enables **real-time or batch querying via Amazon Athena**, supporting business intelligence use cases such as sales analysis and customer behavior tracking.
